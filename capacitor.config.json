@@ -1,0 +1,8 @@
+{
+  "appId": "com.myenglish.notebook",
+  "appName": "My English Notebook",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
